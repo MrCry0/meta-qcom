@@ -7,8 +7,8 @@ distro: qcom-distro
 
 repos:
   meta-qcom-distro:
-    url: https://github.com/qualcomm-linux/meta-qcom-distro
-    branch: main
+    url: https://github.com/MrCry0/meta-qcom-distro
+    branch: fix/issue-1756
 
   meta-openembedded:
     url: https://github.com/openembedded/meta-openembedded
